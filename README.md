@@ -5,6 +5,22 @@ The application simulates basic hotel operations such as room booking, food orde
 
 ---
 
+## 🎥 Project Demonstration Video
+
+A short video demonstration is included with this repository, where I explain the project, walk through the code, and demonstrate the system running in real time.
+
+📁 **Video File:**  
+- `Hotel_Management_System_Demo.mp4` (available in this repository / shared with submission)
+
+This video showcases:
+- Project overview and objectives  
+- Compilation and execution process  
+- Room booking workflow  
+- Food ordering with multiple selections  
+- Billing and sales tracking  
+
+---
+
 ## 📌 Project Overview
 
 This project was built to strengthen my understanding of **C++ fundamentals**, **control structures**, and **user input handling**, while implementing a realistic real-world system in a console environment.
@@ -54,11 +70,11 @@ The system allows users to:
 ```bash
 cd path/to/project-folder
 ```
-###2️⃣ Compile the Program
+### 2️⃣ Compile the Program
 ```bash
 g++ hotel_management.cpp -o hotel
 ```
-###3️⃣ Run the Program
+### 3️⃣ Run the Program
 ```bash
 ./hotel
 ```
